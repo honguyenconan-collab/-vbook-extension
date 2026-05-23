@@ -1,0 +1,9 @@
+{
+  "metadata": {
+    "name": "UUKANSHU",
+    "author": "Nguyen",
+    "version": 1,
+    "source": "https://uukanshu.cc"
+  },
+  "script": "uukanshu.js"
+}
