@@ -1,9 +1,6 @@
 {
-  "metadata": {
-    "name": "UUKANSHU",
-    "author": "Nguyen",
-    "version": 1,
-    "source": "https://uukanshu.cc"
-  },
+  "name": "UUKANSHU",
+  "author": "Nguyen",
+  "version": "1.0.0",
   "script": "uukanshu.js"
 }
